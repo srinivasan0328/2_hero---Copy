@@ -1,0 +1,84 @@
+
+/* hero */
+
+/* step2: componentContainer */
+
+.heroSection{
+    /* background-color: cadetblue; */
+}
+
+/* step3: component */
+
+.heroContainer{
+    /* background-color: brown; */
+}
+
+/* step4: row */
+
+.heroBody{
+    background-color: rgb(150, 100, 197);
+    padding: 25rem 6rem 5rem;
+}
+
+/* step5: column1 */
+
+.heroBlock{
+    background-color: rgb(23, 116, 203);
+    border-radius: 4px;
+}
+
+/* step6: subColumn */
+
+.hero{
+    /* background-color: rgb(128, 190, 190); */
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 9rem 4rem;
+    width: 100%;
+}
+
+/* step7: contentContainer */
+
+.heroSection h1{
+    /* background-color: rgb(128, 190, 190); */
+    font-size: 40px;
+}
+
+.heroSection a{
+    /* background-color: rgb(128, 190, 190); */
+    text-decoration: none;
+    color: #ffffff;
+    text-align: start;
+}
+
+.heroSection p{
+    /* background-color: rgb(128, 190, 190); */
+    margin-top: 1.5rem;
+    color: #ffffff;
+    text-align: start;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* step5: column2 */
+
+.videoPauseBlock{
+    /* background-color: chocolate; */
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+/* step6: subColumn */
+
+.videoPauseIcon{
+    /* background-color: chartreuse; */
+    padding: 0rem 10rem 2rem;
+}
+
+/* step7: contentContainer */
+
+.videoPauseIcon i{
+    /* background-color: rgb(179, 63, 42); */
+}
